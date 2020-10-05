@@ -1,3 +1,0 @@
-/Users/qliu/qliu/cmake/demo/build/CMakeFiles/rebuild_cache.dir
-/Users/qliu/qliu/cmake/demo/build/CMakeFiles/edit_cache.dir
-/Users/qliu/qliu/cmake/demo/build/CMakeFiles/test_liu.dir
